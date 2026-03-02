@@ -1,0 +1,49 @@
+{
+  "name": "ml-finance-assistant-web",
+  "version": "1.0.0",
+  "description": "ML-Powered Personal Finance Assistant - Web App",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "axios": "^1.6.0",
+    "zustand": "^4.4.0",
+    "@tanstack/react-query": "^5.25.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.10.0",
+    "@tremor/react": "^3.16.0",
+    "date-fns": "^2.30.0",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.294.0",
+    "react-hook-form": "^7.48.0",
+    "clsx": "^2.0.0",
+    "tailwindcss": "^3.4.0",
+    "plaid-link": "^3.4.0",
+    "react-calendar": "^4.2.0",
+    "react-currency-input-field": "^3.6.0",
+    "react-dnd": "^16.0.0",
+    "react-dnd-html5-backend": "^16.0.0",
+    "framer-motion": "^10.16.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\""
+  }
+}
