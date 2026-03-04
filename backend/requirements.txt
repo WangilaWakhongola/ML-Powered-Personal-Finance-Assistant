@@ -1,7 +1,7 @@
 Django==4.2.7
 djangorestframework==3.14.0
 django-cors-headers==4.3.1
-djangorestframework-simplejwt==5.3.2
+djangorestframework-simplejwt==5.3.1
 python-decouple==3.8
 psycopg2-binary==2.9.9
 Pillow==10.1.0
