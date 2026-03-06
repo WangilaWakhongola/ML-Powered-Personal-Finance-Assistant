@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ML-Powered Personal Finance Assistant - Web App",
   "type": "module",
-  "private": true,
+  "private": true
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
