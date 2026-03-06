@@ -1,6 +1,6 @@
 # Python
 __pycache__/
-*.py[cod]
+*.py[code]
 *$py.class
 *.so
 .Python
