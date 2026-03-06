@@ -36,7 +36,7 @@ An intelligent financial management platform that helps users understand spendin
 | **DevOps** | Docker, Docker Compose, GitHub Actions |
 | **Deployment** | AWS/GCP/Azure ready |
 
-## 📋 Project Structure
+## Project Structure
 
 ```
 ml-finance-assistant/
@@ -91,7 +91,7 @@ ml-finance-assistant/
 └── docker-compose.yml
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Docker & Docker Compose
@@ -294,10 +294,9 @@ MIT License - see [LICENSE](./LICENSE) file.
 
 ## 📞 Support
 
-- 📧 Email: support@mlfinanceassistant.com
-- 💬 Discord: [Community](https://discord.gg/mlfinance)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ml-finance-assistant/issues)
-- 💭 Discussions: [GitHub Discussions](https://github.com/yourusername/ml-finance-assistant/discussions)
+- 📧 Email: wangilawakhongola@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/WangilaWakhongola/ml-finance-assistant/issues)
+- 💭 Discussions: [GitHub Discussions](https://WangilaWakhongola/ml-finance-assistant/discussions)
 
 ## 🎯 Roadmap
 
