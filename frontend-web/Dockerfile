@@ -8,7 +8,7 @@ RUN npm ci
 
 COPY . .
 
-RUN npm run 
+RUN npm run build
 
 # Production image
 FROM node:18-alpine
